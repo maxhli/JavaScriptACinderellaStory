@@ -1,6 +1,10 @@
 # JavaScriptACinderellaStory
 This short article will describe the history of JavaScript and its surprising rise to stardom among programming languages
 
+
+Author: Student1, Student2, Max Li
+
+
 It all begins with Netscape.
 
 ....
