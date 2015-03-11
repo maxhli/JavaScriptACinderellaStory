@@ -23,3 +23,11 @@ Dart, TypeScript, CoffeeeScript and NativeScript.org ....
 JavaScript is not elegant, compared with Ruby, but it is practical. Problems, null, undefined, String vs string, 
 Number vs number.
 
+
+http://tech.pro/blog/1674/an-interview-with-javascript-legend-kyle-simpson
+
+http://en.wikipedia.org/wiki/Brendan_Eich
+
+
+http://en.wikipedia.org/wiki/JavaScript
+
